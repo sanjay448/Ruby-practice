@@ -1,0 +1,1 @@
+Still getting error for cgi files.Permission problems may be.
