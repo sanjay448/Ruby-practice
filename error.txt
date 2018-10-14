@@ -1,1 +1,1 @@
-Still getting error for cgi files.Permission problems may be.
+Still getting error for cgi files.There must be problems regarding that.
